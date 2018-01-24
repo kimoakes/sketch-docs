@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256px" height="256px" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Fertility Interventions</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="-0.00511928849%" y1="50.0001939%" x2="99.9801143%" y2="50.0001939%" id="linearGradient-1">
+            <stop stop-color="#A7D39C" offset="0%"></stop>
+            <stop stop-color="#059CA1" offset="100%"></stop>
+        </linearGradient>
+        <path d="M27,20 L27,0 L35,0 L35,15 L165,15 C167.761424,15 170,17.2385763 170,20 L170,24.1260175 C170.31962,24.043753 170.6547,24 171,24 L177,24 C179.209139,24 181,25.790861 181,28 L181,29 L210,29 C210.552285,29 211,29.4477153 211,30 C211,30.5522847 210.552285,31 210,31 L181,31 L181,32 C181,34.209139 179.209139,36 177,36 L171,36 C170.6547,36 170.31962,35.956247 170,35.8739825 L170,40 C170,42.7614237 167.761424,45 165,45 L35,45 L35,60 L27,60 L27,40 L27,38 L8,38 L8,50 L0,50 L0,10 L8,10 L8,22 L27,22 L27,20 Z M35,39 L160,39 C161.656854,39 163,37.6568542 163,36 L163,24 C163,22.3431458 161.656854,21 160,21 L35,21 L35,39 Z" id="path-2"></path>
+    </defs>
+    <g id="Fertility-Interventions" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g>
+            <circle id="Oval-2" fill="url(#linearGradient-1)" cx="128" cy="128" r="128"></circle>
+            <g id="SYRINGE" transform="translate(127.500000, 128.000000) rotate(315.000000) translate(-127.500000, -128.000000) translate(22.000000, 98.000000)">
+                <g id="Combined-Shape">
+                    <use fill="#533692" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    <path stroke="#FFFFFF" stroke-width="2" d="M7,11 L1,11 L1,49 L7,49 L7,37 L28,37 L28,59 L34,59 L34,44 L165,44 C167.209139,44 169,42.209139 169,40 L169,34.5840086 L170.249258,34.9055455 C170.492011,34.9680258 170.743458,35 171,35 L177,35 C178.656854,35 180,33.6568542 180,32 L180,30 L180.5,30 L180,30 L180,28 C180,26.3431458 178.656854,25 177,25 L171,25 C170.743458,25 170.492011,25.0319742 170.249258,25.0944545 L169,25.4159914 L169,20 C169,17.790861 167.209139,16 165,16 L34,16 L34,1 L28,1 L28,23 L7,23 L7,11 Z M34,40 L34,20 L160,20 C162.209139,20 164,21.790861 164,24 L164,36 C164,38.209139 162.209139,40 160,40 L34,40 Z"></path>
+                </g>
+                <rect id="Rectangle-4" fill="#533692" x="54" y="24" width="2" height="12"></rect>
+                <rect id="Rectangle-4" fill="#533692" x="76" y="26" width="2" height="8"></rect>
+                <rect id="Rectangle-4" fill="#533692" x="98" y="24" width="2" height="12"></rect>
+                <rect id="Rectangle-4" fill="#533692" x="120" y="26" width="2" height="8"></rect>
+                <rect id="Rectangle-4" fill="#533692" x="142" y="24" width="2" height="12"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

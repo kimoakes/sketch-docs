@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256px" height="256px" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>BFP</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="-0.00511928849%" y1="50.0001939%" x2="99.9801143%" y2="50.0001939%" id="linearGradient-1">
+            <stop stop-color="#A7D39C" offset="0%"></stop>
+            <stop stop-color="#059CA1" offset="100%"></stop>
+        </linearGradient>
+        <path d="M153,105 L206,105 C218.150264,105 228,114.849736 228,127 L228,133 C228,145.150264 218.150264,155 206,155 L153,155 L153,208 C153,220.150264 143.150264,230 131,230 L125,230 C112.849736,230 103,220.150264 103,208 L103,155 L50,155 C37.8497355,155 28,145.150264 28,133 L28,127 C28,114.849736 37.8497355,105 50,105 L103,105 L103,52 C103,39.8497355 112.849736,30 125,30 L131,30 C143.150264,30 153,39.8497355 153,52 L153,105 Z" id="path-2"></path>
+    </defs>
+    <g id="BFP" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g>
+            <circle id="Oval-2" fill="url(#linearGradient-1)" cx="128" cy="128" r="128"></circle>
+            <g id="Combined-Shape">
+                <use fill="#533692" fill-rule="evenodd" xlink:href="#path-2"></use>
+                <path stroke="#FFFFFF" stroke-width="3" d="M206,106.5 L151.5,106.5 L151.5,52 C151.5,40.6781626 142.321837,31.5 131,31.5 L125,31.5 C113.678163,31.5 104.5,40.6781626 104.5,52 L104.5,106.5 L50,106.5 C38.6781626,106.5 29.5,115.678163 29.5,127 L29.5,133 C29.5,144.321837 38.6781626,153.5 50,153.5 L104.5,153.5 L104.5,208 C104.5,219.321837 113.678163,228.5 125,228.5 L131,228.5 C142.321837,228.5 151.5,219.321837 151.5,208 L151.5,153.5 L206,153.5 C217.321837,153.5 226.5,144.321837 226.5,133 L226.5,127 C226.5,115.678163 217.321837,106.5 206,106.5 Z"></path>
+            </g>
+        </g>
+    </g>
+</svg>

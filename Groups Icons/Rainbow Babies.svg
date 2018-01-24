@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256px" height="256px" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Rainbow Babies</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="-0.00511928849%" y1="50.0001939%" x2="99.9801143%" y2="50.0001939%" id="linearGradient-1">
+            <stop stop-color="#A7D39C" offset="0%"></stop>
+            <stop stop-color="#059CA1" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Rainbow-Babies" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g>
+            <circle id="Oval-2" fill="url(#linearGradient-1)" cx="128" cy="128" r="128"></circle>
+            <g id="Group" transform="translate(128.000000, 128.000000) rotate(-90.000000) translate(-128.000000, -128.000000) translate(57.000000, 28.000000)" stroke="#FFFFFF" stroke-linejoin="round" stroke-width="20">
+                <path d="M42,200 C97.228475,200 142,155.228475 142,100 C142,44.771525 97.228475,0 42,0 C-13.228475,0 -13.228475,200 42,200 Z" id="Oval" stroke-dasharray="314,628"></path>
+                <path d="M42,150 C69.6142375,150 92,127.614237 92,100 C92,72.3857625 69.6142375,50 42,50 C14.3857625,50 14.3857625,150 42,150 Z" id="Oval" stroke-dasharray="157,314"></path>
+                <path d="M42,175 C83.4213562,175 117,141.421356 117,100 C117,58.5786438 83.4213562,25 42,25 C0.578643765,25 0.578643765,175 42,175 Z" id="Oval" stroke-dasharray="235.5,471"></path>
+            </g>
+            <g id="Group" transform="translate(128.000000, 128.000000) rotate(-90.000000) translate(-128.000000, -128.000000) translate(57.000000, 19.000000)">
+                <path d="M42,209 C97.228475,209 142,164.228475 142,109 C142,53.771525 97.228475,9 42,9 C-13.228475,9 -13.228475,209 42,209 Z" id="Oval" stroke="#533692" stroke-width="16" stroke-linejoin="round" stroke-dasharray="314,628"></path>
+                <path d="M42,159 C69.6142375,159 92,136.614237 92,109 C92,81.3857625 69.6142375,59 42,59 C14.3857625,59 14.3857625,159 42,159 Z" id="Oval" stroke="#533692" stroke-width="16" stroke-linejoin="round" stroke-dasharray="157,314"></path>
+                <path d="M42,184 C83.4213562,184 117,150.421356 117,109 C117,67.5786438 83.4213562,34 42,34 C0.578643765,34 0.578643765,184 42,184 Z" id="Oval" stroke="#533692" stroke-width="16" stroke-linejoin="round" stroke-dasharray="235.5,471"></path>
+                <path d="M42.5,25 L42.5,43" id="Line" stroke="#FFFFFF" stroke-width="2" stroke-linecap="square"></path>
+                <path d="M42.5,50 L42.5,68" id="Line" stroke="#FFFFFF" stroke-width="2" stroke-linecap="square"></path>
+                <path d="M42.5,3.55271368e-15 L42.5,18" id="Line" stroke="#FFFFFF" stroke-width="2" stroke-linecap="square"></path>
+                <path d="M42.5,175 L42.5,193" id="Line" stroke="#FFFFFF" stroke-width="2" stroke-linecap="square"></path>
+                <path d="M42.5,150 L42.5,168" id="Line" stroke="#FFFFFF" stroke-width="2" stroke-linecap="square"></path>
+                <path d="M42.5,200 L42.5,218" id="Line" stroke="#FFFFFF" stroke-width="2" stroke-linecap="square"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256px" height="256px" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>FAM OG</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="-0.00511928849%" y1="50.0001939%" x2="99.9801143%" y2="50.0001939%" id="linearGradient-1">
+            <stop stop-color="#A7D39C" offset="0%"></stop>
+            <stop stop-color="#059CA1" offset="100%"></stop>
+        </linearGradient>
+        <path d="M12.8728035,0.5 C22.0125535,0.5 41.0549523,0.5 70,0.5 L70,13.5 L10.7957904,13.5 C9.25726226,4.83333333 9.94959994,0.5 12.8728035,0.5 Z" id="path-2"></path>
+        <circle id="path-3" cx="14.5" cy="20.5" r="13.5"></circle>
+        <path d="M14.5995552,33.9999884 C22.0733393,34.3916728 28.0995552,27.9558325 28.0995552,20.4999884 C28.0995552,13.0441442 22.0553994,6.99998836 14.5995552,6.99998836 C7.14371113,6.99998836 1.09955525,13.0441442 1.09955525,20.4999884 C1.09955525,27.9558325 14.1217597,29.6168714 14.5995552,33.9999884 Z" id="path-5"></path>
+        <path d="M161,131 L229,131 L229,146.845128 C229,162.861386 216.016258,175.845128 200,175.845128 L190,175.845128 C173.983742,175.845128 161,162.861386 161,146.845128 L161,131 Z" id="path-7"></path>
+        <path d="M12.8728035,0.5 C22.0125535,0.5 41.0549523,0.5 70,0.5 L70,13.5 L10.7957904,13.5 C9.25726226,4.83333333 9.94959994,0.5 12.8728035,0.5 Z" id="path-8"></path>
+        <circle id="path-9" cx="14.5" cy="20.5" r="13.5"></circle>
+        <path d="M14.5995552,33.9999884 C22.0733393,34.3916728 28.0995552,27.9558325 28.0995552,20.4999884 C28.0995552,13.0441442 22.0553994,6.99998836 14.5995552,6.99998836 C7.14371113,6.99998836 1.09955525,13.0441442 1.09955525,20.4999884 C1.09955525,27.9558325 14.1217597,29.6168714 14.5995552,33.9999884 Z" id="path-11"></path>
+        <path d="M84,131 L152,131 L152,146.845128 C152,162.861386 139.016258,175.845128 123,175.845128 L113,175.845128 C96.9837423,175.845128 84,162.861386 84,146.845128 L84,131 Z" id="path-13"></path>
+    </defs>
+    <g id="Fam-OG" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="FAM-OG">
+            <circle id="Oval-2" fill="url(#linearGradient-1)" cx="128" cy="128" r="128"></circle>
+            <g id="Group" transform="translate(190.537320, 119.537320) rotate(45.000000) translate(-190.537320, -119.537320) translate(155.537320, 100.037320)">
+                <g id="Rectangle-2">
+                    <use fill="#533692" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    <path stroke="#FFFFFF" stroke-width="3" d="M12.0634712,12 L68.5,12 L68.5,2 C31.5305158,2 31.2879742,2 12.8728035,2 C11.5340145,2 10.9618964,5.1205812 12.0634712,12 Z"></path>
+                </g>
+                <mask id="mask-4" fill="white">
+                    <use xlink:href="#path-3"></use>
+                </mask>
+                <use id="Oval" stroke="#FFFFFF" stroke-width="13" stroke-dasharray="42,84.77999877929688" transform="translate(14.500000, 20.500000) scale(-1, 1) translate(-14.500000, -20.500000) " xlink:href="#path-3"></use>
+                <mask id="mask-6" fill="white">
+                    <use xlink:href="#path-5"></use>
+                </mask>
+                <use id="Oval" stroke="#533692" stroke-width="7" stroke-dasharray="42,84.77999877929688" transform="translate(14.599555, 20.508485) scale(-1, 1) rotate(-3.000000) translate(-14.599555, -20.508485) " xlink:href="#path-5"></use>
+                <path d="M13.5,38.5 L13.5,28.5" id="Line" stroke="#FFFFFF" stroke-width="2" stroke-linecap="square"></path>
+            </g>
+            <g id="Rectangle">
+                <use fill="#533692" fill-rule="evenodd" xlink:href="#path-7"></use>
+                <path stroke="#FFFFFF" stroke-width="3" d="M162.5,132.5 L162.5,146.845128 C162.5,162.032959 174.812169,174.345128 190,174.345128 L200,174.345128 C215.187831,174.345128 227.5,162.032959 227.5,146.845128 L227.5,132.5 L162.5,132.5 Z"></path>
+            </g>
+            <g id="Group" transform="translate(63.537320, 120.537320) rotate(45.000000) translate(-63.537320, -120.537320) translate(28.537320, 101.037320)">
+                <g id="Rectangle-2">
+                    <use fill="#533692" fill-rule="evenodd" xlink:href="#path-8"></use>
+                    <path stroke="#FFFFFF" stroke-width="3" d="M12.0634712,12 L68.5,12 L68.5,2 C31.5305158,2 31.2879742,2 12.8728035,2 C11.5340145,2 10.9618964,5.1205812 12.0634712,12 Z"></path>
+                </g>
+                <mask id="mask-10" fill="white">
+                    <use xlink:href="#path-9"></use>
+                </mask>
+                <use id="Oval" stroke="#FFFFFF" stroke-width="13" stroke-dasharray="42,84.77999877929688" transform="translate(14.500000, 20.500000) scale(-1, 1) translate(-14.500000, -20.500000) " xlink:href="#path-9"></use>
+                <mask id="mask-12" fill="white">
+                    <use xlink:href="#path-11"></use>
+                </mask>
+                <use id="Oval" stroke="#533692" stroke-width="7" stroke-dasharray="42,84.77999877929688" transform="translate(14.599555, 20.508485) scale(-1, 1) rotate(-3.000000) translate(-14.599555, -20.508485) " xlink:href="#path-11"></use>
+                <path d="M13.5,38.5 L13.5,28.5" id="Line" stroke="#FFFFFF" stroke-width="2" stroke-linecap="square"></path>
+            </g>
+            <g id="Rectangle">
+                <use fill="#533692" fill-rule="evenodd" xlink:href="#path-13"></use>
+                <path stroke="#FFFFFF" stroke-width="3" d="M85.5,132.5 L85.5,146.845128 C85.5,162.032959 97.8121694,174.345128 113,174.345128 L123,174.345128 C138.187831,174.345128 150.5,162.032959 150.5,146.845128 L150.5,132.5 L85.5,132.5 Z"></path>
+            </g>
+            <path d="M149.5,132.5 L162.5,132.5" id="Line-2" stroke="#FFFFFF" stroke-width="3" stroke-linecap="square"></path>
+        </g>
+    </g>
+</svg>

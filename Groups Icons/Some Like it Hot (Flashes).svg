@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256px" height="256px" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Some Like it Hot (Flashes)</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="-0.00511928849%" y1="50.0001939%" x2="99.9801143%" y2="50.0001939%" id="linearGradient-1">
+            <stop stop-color="#A7D39C" offset="0%"></stop>
+            <stop stop-color="#059CA1" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="17.4850485" y="79.9316505" width="10.9906019" height="44.9615534"></rect>
+        <rect id="path-3" x="96.9171262" y="160.862447" width="10.9906019" height="44.9615534"></rect>
+        <rect id="path-4" x="177.847922" y="80.9307961" width="10.9906019" height="44.9615534"></rect>
+        <rect id="path-5" x="97.9162718" y="0" width="10.9906019" height="44.9615534"></rect>
+        <rect id="path-6" x="9.62361165" y="75.6765825" width="9.62361165" height="27.9959612"></rect>
+        <rect id="path-7" x="84.8627573" y="152.228039" width="9.62361165" height="27.9959612"></rect>
+        <rect id="path-8" x="161.414214" y="76.5514563" width="9.62361165" height="27.9959612"></rect>
+        <rect id="path-9" x="85.7376311" y="0" width="9.62361165" height="27.9959612"></rect>
+    </defs>
+    <g id="Some-Like-It-Hot-(Flashes)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Some-Like-it-Hot-(Flashes)">
+            <circle id="Oval-2" fill="url(#linearGradient-1)" cx="128" cy="128" r="128"></circle>
+            <g id="Group" transform="translate(24.576000, 24.576000)">
+                <g id="Rectangle" transform="translate(22.980350, 102.412427) rotate(270.000000) translate(-22.980350, -102.412427) ">
+                    <use fill="#533692" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    <rect stroke="#FFFFFF" stroke-width="3" x="18.9850485" y="81.4316505" width="7.99060194" height="41.9615534"></rect>
+                </g>
+                <g id="Rectangle" transform="translate(102.412427, 183.343223) rotate(180.000000) translate(-102.412427, -183.343223) ">
+                    <use fill="#533692" fill-rule="evenodd" xlink:href="#path-3"></use>
+                    <rect stroke="#FFFFFF" stroke-width="3" x="98.4171262" y="162.362447" width="7.99060194" height="41.9615534"></rect>
+                </g>
+                <g id="Rectangle" transform="translate(183.343223, 103.411573) rotate(90.000000) translate(-183.343223, -103.411573) ">
+                    <use fill="#533692" fill-rule="evenodd" xlink:href="#path-4"></use>
+                    <rect stroke="#FFFFFF" stroke-width="3" x="179.347922" y="82.4307961" width="7.99060194" height="41.9615534"></rect>
+                </g>
+                <circle id="Oval" stroke="#FFFFFF" stroke-width="3" fill="#533692" cx="102.912" cy="102.912" r="49.9572816"></circle>
+                <g id="Rectangle">
+                    <use fill="#533692" fill-rule="evenodd" xlink:href="#path-5"></use>
+                    <rect stroke="#FFFFFF" stroke-width="3" x="99.4162718" y="1.5" width="7.99060194" height="41.9615534"></rect>
+                </g>
+            </g>
+            <g id="Group" transform="translate(128.000000, 128.000000) rotate(45.000000) translate(-128.000000, -128.000000) translate(37.888000, 37.888000)">
+                <g id="Rectangle" transform="translate(14.435417, 89.674563) rotate(270.000000) translate(-14.435417, -89.674563) ">
+                    <use fill="#533692" fill-rule="evenodd" xlink:href="#path-6"></use>
+                    <rect stroke="#FFFFFF" stroke-width="3" x="11.1236117" y="77.1765825" width="6.62361165" height="24.9959612"></rect>
+                </g>
+                <g id="Rectangle" transform="translate(89.674563, 166.226019) rotate(180.000000) translate(-89.674563, -166.226019) ">
+                    <use fill="#533692" fill-rule="evenodd" xlink:href="#path-7"></use>
+                    <rect stroke="#FFFFFF" stroke-width="3" x="86.3627573" y="153.728039" width="6.62361165" height="24.9959612"></rect>
+                </g>
+                <g id="Rectangle" transform="translate(166.226019, 90.549437) rotate(90.000000) translate(-166.226019, -90.549437) ">
+                    <use fill="#533692" fill-rule="evenodd" xlink:href="#path-8"></use>
+                    <rect stroke="#FFFFFF" stroke-width="3" x="162.914214" y="78.0514563" width="6.62361165" height="24.9959612"></rect>
+                </g>
+                <g id="Rectangle">
+                    <use fill="#533692" fill-rule="evenodd" xlink:href="#path-9"></use>
+                    <rect stroke="#FFFFFF" stroke-width="3" x="87.2376311" y="1.5" width="6.62361165" height="24.9959612"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

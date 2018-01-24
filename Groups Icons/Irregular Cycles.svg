@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256px" height="256px" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Irregular Cycles</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="-0.00511928849%" y1="50.0001939%" x2="99.9801143%" y2="50.0001939%" id="linearGradient-1">
+            <stop stop-color="#A7D39C" offset="0%"></stop>
+            <stop stop-color="#059CA1" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-2" cx="87.1911206" cy="168.293447" r="45"></circle>
+        <circle id="path-3" cx="151.448394" cy="150.448394" r="22.3112887"></circle>
+        <circle id="path-4" cx="159.411206" cy="88.4112059" r="37.5"></circle>
+        <circle id="path-5" cx="162.391896" cy="180.391896" r="17.5"></circle>
+        <circle id="path-6" cx="98.5482745" cy="109.548275" r="50"></circle>
+        <circle id="path-7" cx="98.2741373" cy="128.274137" r="25"></circle>
+        <circle id="path-8" cx="133.274137" cy="114.274137" r="25"></circle>
+    </defs>
+    <g id="Irregular-Cycles" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g>
+            <circle id="Oval-2" fill="url(#linearGradient-1)" cx="128" cy="128" r="128"></circle>
+            <g id="Oval" stroke-linecap="round" stroke-linejoin="bevel" stroke-dasharray="1" transform="translate(87.191121, 168.293447) scale(-1, -1) rotate(267.000000) translate(-87.191121, -168.293447) ">
+                <use stroke="#FFFFFF" stroke-width="10" xlink:href="#path-2"></use>
+                <use stroke="#533692" stroke-width="5" xlink:href="#path-2"></use>
+            </g>
+            <g id="Oval" stroke-linecap="round" stroke-linejoin="bevel" stroke-dasharray="1" transform="translate(151.448394, 150.448394) scale(-1, -1) rotate(267.000000) translate(-151.448394, -150.448394) ">
+                <use stroke="#FFFFFF" stroke-width="10" xlink:href="#path-3"></use>
+                <use stroke="#533692" stroke-width="5" xlink:href="#path-3"></use>
+            </g>
+            <g id="Oval" stroke-linecap="round" stroke-linejoin="bevel" stroke-dasharray="1" transform="translate(159.411206, 88.411206) scale(-1, -1) rotate(267.000000) translate(-159.411206, -88.411206) ">
+                <use stroke="#FFFFFF" stroke-width="10" xlink:href="#path-4"></use>
+                <use stroke="#533692" stroke-width="5" xlink:href="#path-4"></use>
+            </g>
+            <g id="Oval" stroke-linecap="round" stroke-linejoin="bevel" stroke-dasharray="1" transform="translate(162.391896, 180.391896) scale(-1, -1) rotate(267.000000) translate(-162.391896, -180.391896) ">
+                <use stroke="#FFFFFF" stroke-width="10" xlink:href="#path-5"></use>
+                <use stroke="#533692" stroke-width="5" xlink:href="#path-5"></use>
+            </g>
+            <g id="Oval" stroke-linecap="round" stroke-linejoin="bevel" stroke-dasharray="1" transform="translate(98.548275, 109.548275) scale(-1, -1) rotate(267.000000) translate(-98.548275, -109.548275) ">
+                <use stroke="#FFFFFF" stroke-width="10" xlink:href="#path-6"></use>
+                <use stroke="#533692" stroke-width="5" xlink:href="#path-6"></use>
+            </g>
+            <g id="Oval" stroke-linecap="round" stroke-linejoin="bevel" stroke-dasharray="1" transform="translate(98.274137, 128.274137) scale(-1, -1) rotate(267.000000) translate(-98.274137, -128.274137) ">
+                <use stroke="#FFFFFF" stroke-width="10" xlink:href="#path-7"></use>
+                <use stroke="#533692" stroke-width="5" xlink:href="#path-7"></use>
+            </g>
+            <g id="Oval" stroke-linecap="round" stroke-linejoin="bevel" stroke-dasharray="1" transform="translate(133.274137, 114.274137) scale(-1, -1) rotate(267.000000) translate(-133.274137, -114.274137) ">
+                <use stroke="#FFFFFF" stroke-width="10" xlink:href="#path-8"></use>
+                <use stroke="#533692" stroke-width="5" xlink:href="#path-8"></use>
+            </g>
+        </g>
+    </g>
+</svg>
